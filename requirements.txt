@@ -1,0 +1,8 @@
+# Dashboard Kualitas Udara Jakarta 2022 (ISPU) — dependencies
+# Dijalankan dengan: streamlit run dashboard_ispu_streamlit.py
+# Versi disematkan ke yang sudah diuji; gunakan >= bila ingin lebih longgar.
+
+streamlit==1.58.0
+plotly==6.8.0
+pandas==3.0.2
+openpyxl==3.1.5
